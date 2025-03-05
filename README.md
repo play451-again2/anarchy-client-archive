@@ -1,2 +1,2 @@
 # anarchy-client-archive
-anarchy server go brrrrrrrrrrrrrrrrrrrrrrr
+All good clients for anarchy including paid and cracks
