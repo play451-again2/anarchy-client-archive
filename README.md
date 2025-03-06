@@ -22,4 +22,27 @@ All good clients for anarchy including paid and cracks from the major anarchy ve
 | LeuxBackdoor | [Click Me](https://github.com/accessmodifier364/LeuxBackdoor/releases/download/LeuxBackdoor/LeuxBackdoor-0.9-all.jar) | [Github](https://github.com/accessmodifier364/LeuxBackdoor) |
 | Thunderhack Plus | [Click Me](https://github.com/s7n1ax/Thunderhackplus/raw/refs/heads/main/thunderhack-0.0.1-release.jar) | [Github](https://github.com/s7n1ax/Thunderhackplus) |
 
+# 1.12.2 Paid
+| Name         | Buy               |
+|------------- |-------------------|
+| Future    | [Site](https://www.futureclient.net) |
+| Rusherhack    | [Site](https://rusherhack.org) |
+| Konas    | [Site](https://konasclient.com) |
+| Pyro    | [Site](https://pyroclient.com/) |
 
+# 1.20.4/1.21.1 Free
+| Name         | Download                                          | Source/Site               |
+|------------- |---------------------------------------------------|---------------------------|
+| Thunderhack Recoded    | [1.21.1](https://github.com/Pan4ur/ThunderHack-Recode/releases/download/latest/thunderhack-1.7.jar) [1.20.4](https://github.com/Pan4ur/ThunderHack-Recode/releases/download/1.20.4/thunderhack-1.4.jar) | [Github](https://github.com/Pan4ur/ThunderHack-Recode) |
+| Meteor    | [1.21.1](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.8.jar) [1.20.4](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.6.jar) | [Meteor Archive Github](https://github.com/ManInMyVan/meteor-archive) |
+| Alien    | [1.21.1](https://github.com/iM4dCat/Alien/releases/download/2.0.4/alien-2.0.4-free-mc1.21.1.jar) | [Github](https://github.com/iM4dCat/Alien) |
+| Aoba    | [1.21.1](https://github.com/coltonk9043/Aoba-Client/releases/download/1.4.3/Aoba-1.4.3-1.21.jar) | [Github](https://github.com/coltonk9043/Aoba-Client) |
+
+# 1.20.4/1.21.1 Paid
+| Name         | Buy               |
+|------------- |-------------------|
+| Future    | [Site](https://www.futureclient.net) |
+| Rusherhack    | [Site](https://rusherhack.org) |
+| Shoreline    | [Site](https://shorelineclient.net) |
+| Boze    | [Site](https://boze.dev/) |
+| Mio    | [Site](https://mioclient.me/) |
