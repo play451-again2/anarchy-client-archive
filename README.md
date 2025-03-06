@@ -1,5 +1,5 @@
 # Anarchy Client Archive
-All good clients for anarchy including paid and cracks from the major anarchy version might add plugins list later
+All good clients for anarchy including paid and cracks from the major anarchy version might add plugins and config list later
 
 # 1.12.2 Free
 | Name         | Download                                          | Source/Site               |
@@ -19,4 +19,7 @@ All good clients for anarchy including paid and cracks from the major anarchy ve
 | Postman | [Click Me](https://github.com/srgantmoomoo/postman/releases/download/3.001/postman3.001.jar) | [Github](https://github.com/srgantmoomoo/postman) |
 | Lambda | [Click Me](https://github.com/lambda-client/lambda/releases/download/3.4.0/lambda-3.4.0.jar) | [Github](https://github.com/lambda-client/lambda) |
 | Atrium | [Click Me](https://github.com/3000IQPlay/Atrium) | [Github](https://github.com/3000IQPlay/Atrium) |
+| LeuxBackdoor | [Click Me](https://github.com/accessmodifier364/LeuxBackdoor/releases/download/LeuxBackdoor/LeuxBackdoor-0.9-all.jar) | [Github](https://github.com/accessmodifier364/LeuxBackdoor) |
+| Thunderhack Plus | [Click Me](https://github.com/s7n1ax/Thunderhackplus/raw/refs/heads/main/thunderhack-0.0.1-release.jar) | [Github](https://github.com/s7n1ax/Thunderhackplus) |
+
 
